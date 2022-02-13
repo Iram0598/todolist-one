@@ -17,17 +17,14 @@
 
 .container{
     background-color: rgba(82, 80, 80, 0.315);
-    height: 380px;
+    height: 220px;
     width: 500px;
     margin-top: 2px;
    
 }
 
 
-.table{
-    background-color: brown;
-  
-}
+
 
 #list{
     color: aliceblue;
