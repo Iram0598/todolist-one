@@ -1,0 +1,20 @@
+.main{
+    background-image: url(https://img.search.brave.com/RO-PawiQTSgLPomQ0nXXOIzsi6kT18z2blEuHKrY2bI/rs:fit:960:700:1/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAxNi8w/Mi8wNC8xMS8yNC9w/YXBlci0xMTc4OTc0/Xzk2MF83MjAuanBn);
+    background-size: cover;
+}
+.btn{
+    width: 100%;
+    font-size: 100%;
+    color: aliceblue;
+    background-color: rgb(73, 240, 73);
+}
+.btn:hover{
+    font-size: 110%;
+    color: aliceblue;
+    background-color: rgb(25, 143, 25);
+    transition: 0.5s;
+}
+
+.container{
+    background-color: rgb(141, 141, 141);
+}
