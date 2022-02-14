@@ -1,6 +1,8 @@
 .main{
     background-image: url(https://img.search.brave.com/qN9KPGJoByS15m3NRVccuFgf0GA4UdVdGG4SSqbru7Y/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGV4ZWxzLmNv/bS9waG90b3MvMTU5/ODcyL2Jvb2stb3Bl/bi1wYWdlcy1saXRl/cmF0dXJlLTE1OTg3/Mi5qcGVnP2NzPXNy/Z2ImZGw9YmxhY2st/YW5kLXdoaXRlLWJv/b2stcGFnZXMtMTU5/ODcyLmpwZyZmbT1q/cGc);
     background-size: cover;
+    background-repeat: no-repeat;
+
 }
 .btn{
     width: 100%;
@@ -19,8 +21,22 @@
     background-color: rgba(82, 80, 80, 0.315);
     height: 220px;
     width: 500px;
-    margin-top: 2px;
+    margin-top: 2%;
    
+   
+}
+@media only screen and (max-width: 678px)  
+{
+    .main{
+        background-size: 500%;
+    }
+    .list{
+        margin-right: 20px;
+    }
+    .display-4{
+        text-align: center;
+    }
+    
 }
 
 
@@ -33,6 +49,8 @@
 
 .display-4{
     color: aliceblue;
+    margin-top: 5%;
+    text-align: center;
 }
 
 
