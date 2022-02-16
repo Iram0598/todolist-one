@@ -37,5 +37,17 @@
 .display-4{
     color: aliceblue;
 }
+.signout{
+    float: right;
+    background-color: rgb(25, 143, 25);
+    color: aliceblue;
+    border-color: green;
+    border: solid;
+}
+.signout{
+    position: fixed;
+    position: sticky;
+    top: 0;
+}
 
 
